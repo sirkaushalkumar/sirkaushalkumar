@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-_I am **Kaushal Kumar**. I am currently working as a Senior Enginner at Tata Consultancy Services. I love reading content on Internet and watch Netflix Shows in free time. I am a Mechanical Engineer and a Mathematics enthusiast who is never going to see his love back again in this life. As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tortured by his own demons. I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by._
+I am **Kaushal Kumar**. I am currently working as a Senior Enginner at Tata Consultancy Services. 
 
-_I remian with thanks and regards <br/>_
+I love reading content on Internet and watch Netflix Shows in free time. 
+
+I am a Mechanical Engineer and a Mathematics enthusiast who is never going to see his love back again in this life. 
+
+As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tortured by his own demons. 
+
+I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
+
+I remian with thanks and regards <br/>
 _Kaushal Kumar_
 
 <!--
