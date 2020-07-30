@@ -1,3 +1,5 @@
+---?image=bg.jpeg
+
 ### Hi there 👋
 
 I am **Kaushal Kumar**. I am currently working as a Senior Enginner at Tata Consultancy Services. 
