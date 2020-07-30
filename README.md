@@ -1,4 +1,4 @@
----?image=assets/img/bg.jpg
+---?image=bg.jepg
 
 ### Hi there 👋
 
