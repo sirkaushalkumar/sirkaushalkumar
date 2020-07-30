@@ -1,4 +1,4 @@
----?image=bg.jepg
+<img align="right" src="https://github.com/sirkaushalkumar/sirkaushalkumar/blob/master/image.jpg" width=400px height=400px/>
 
 ### Hi there 👋
 
