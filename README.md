@@ -10,7 +10,7 @@ I am a Mechanical Engineer and a Mathematics enthusiast who is never going to se
 
 As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tortured by his own demons. 
 
-I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
+I am also writing to inform that I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
 
 I remian with thanks and regards <br/>
 _Kaushal Kumar_
