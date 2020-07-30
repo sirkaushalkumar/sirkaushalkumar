@@ -1,13 +1,3 @@
-<style>
-html { 
-			background: url(bg.jpg) no-repeat center center fixed; 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
-			color: #ffffff;
-}
-</style>
 ### Hi there 👋
 
 I am **Kaushal Kumar**. I am currently working as a Senior Enginner at Tata Consultancy Services. 
