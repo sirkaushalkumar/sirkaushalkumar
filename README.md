@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am **Kaushal Kumar**. I am currently working as a Business Analyst at Tata Consultancy Services. 
+I am **Kaushal Kumar**. I am currently working as an IT Analyst at Tata Consultancy Services. 
 
 I love reading content on Internet and watch Netflix Shows in free time. 
 
