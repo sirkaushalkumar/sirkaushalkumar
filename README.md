@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/sirkaushalkumar/sirkaushalkumar/blob/master/image.png" width=433px height=576px/>
+<img align="right" src="https://github.com/sirkaushalkumar/sirkaushalkumar/blob/master/image.png" width=288px height=384px/>
 
 ### Hi there 👋
 
