@@ -12,10 +12,10 @@ As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tor
 
 I am also writing to inform that I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
 
-https://github-readme-stats.vercel.app/api?username=sirkaushalkumar
+![Professor Pandit's github stats](https://github-readme-stats.vercel.app/api?username=sirkaushalkumar&show_icons=true&theme=transparent)<br>
 
 I remian with thanks and regards <br/>
-_Kaushal Kumar_
+_Kaushal Kumar (Professor Pandit)_
 
 <!--
 **sirkaushalkumar/sirkaushalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
