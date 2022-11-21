@@ -12,6 +12,8 @@ As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tor
 
 I am also writing to inform that I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
 
+https://github-readme-stats.vercel.app/api?username=sirkaushalkumar
+
 I remian with thanks and regards <br/>
 _Kaushal Kumar_
 
