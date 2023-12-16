@@ -6,7 +6,7 @@ I am **Kaushal Kumar**. I am currently working as a Technical Specialist at Sony
 
 I love reading content on Internet and watch Netflix Shows in free time. I spend a lot of time listening music.
 
-I am a Mechanical Engineer by education and a Mathematics enthusiast by choice and IT Executive by profession. 
+I am a Mechanical Engineer by education, a Mathematics Enthusiast by choice and IT Executive by profession. 
 
 As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tortured by his own demons. 
 
