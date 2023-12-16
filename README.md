@@ -2,17 +2,15 @@
 
 ### Hi there 👋
 
-I am **Kaushal Kumar**. I am currently working as an IT Analyst at Tata Consultancy Services. 
+I am **Kaushal Kumar**. I am currently working as a Technical Specialist at Sony India Software Centre Private Limited. 
 
-I love reading content on Internet and watch Netflix Shows in free time. 
+I love reading content on Internet and watch Netflix Shows in free time. I spend a lot of time listening music.
 
-I am a Mechanical Engineer and a Mathematics enthusiast who is never going to see his love back again in this life. 
+I am a Mechanical Engineer by education and a Mathematics enthusiast by choice and IT Executive by profession. 
 
 As they say, I am also a hard-edged, sanguine, sapiosexual, antihero, who is tortured by his own demons. 
 
 I am also writing to inform that I do have an affinity to learn and would be more than happy to learn and collaborate with you. Thanks for stopping by.
-
-![Professor Pandit's github stats](https://github-readme-stats.vercel.app/api?username=sirkaushalkumar&show_icons=true&theme=transparent)<br>
 
 I remian with thanks and regards <br/>
 _Kaushal Kumar (Professor Pandit)_
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--![Professor Pandit's github stats](https://github-readme-stats.vercel.app/api?username=sirkaushalkumar&show_icons=true&theme=transparent)<br> -->
