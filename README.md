@@ -18,7 +18,7 @@ _Kaushal Kumar (Professor Pandit)_
 ## Stats
 <p>
   <img alt="Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirkaushalkumar&theme=dark" />
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkaushalkumar&theme=dark" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkaushalkumar&theme=transparent" />
 </p>
 
 <!--
