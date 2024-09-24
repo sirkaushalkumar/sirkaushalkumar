@@ -15,6 +15,12 @@ I am also writing to inform that I do have an affinity to learn and would be mor
 I remian with thanks and regards <br/>
 _Kaushal Kumar (Professor Pandit)_
 
+## Stats
+<p>
+  <img alt="Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirkaushalkumar&theme=dark" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkaushalkumar" />
+</p>
+
 <!--
 **sirkaushalkumar/sirkaushalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
